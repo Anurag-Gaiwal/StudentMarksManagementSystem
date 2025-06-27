@@ -110,4 +110,4 @@ For any inquiries, please contact:
 
 - **Name**: Anurag Gaiwal
 - **Email**: anuraggaiwal0@gmail.com
-- **GitHub**: [your-username](https://github.com/anurag-gaiwal)
+- **GitHub**: [anurag-gaiwal](https://github.com/anurag-gaiwal)
